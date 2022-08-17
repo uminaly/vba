@@ -303,6 +303,7 @@ h1{
   clip-path: polygon(0 0, 100% 25%, 100% 100%, 0 75%);
   color: aliceblue;
   padding: 0 150px;
+  width:100%;
 }
 
 .introduction{
@@ -362,6 +363,7 @@ h1{
   background-color:rgb(255, 251, 166);
   color:  rgb(11, 207, 217);
   height: 1200px;
+  width:100%;
 }
 
 .vertical-intro{
@@ -417,6 +419,7 @@ h3{
 .kabayan{
   background-color:  rgb(11, 207, 217);
   height: 800px;
+  width:100%;
 }
 
 .kabayan .intro-text p{
