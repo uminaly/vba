@@ -200,7 +200,8 @@ li.menu__single:hover ul.menu__second-level {
   *zoom: 1;
 }
 
-
+header{
+width:100%;}
 
 .header-right{
   float: right;
